@@ -1,0 +1,19 @@
+* {
+	box-sizing: border-box;
+}
+html {
+}
+html, body {
+	height: 100%;
+}
+body {
+	margin: 0px;
+	background: rgba(#005eff, 0.5);
+}
+
+#app {
+	box-sizing: border-box;
+}
+.layout {
+	border: 1px dashed #ffffff;
+}
